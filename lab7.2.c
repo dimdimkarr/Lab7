@@ -11,7 +11,7 @@ int main(void)
     char op;
     int valid = 1;
 
-    setlocale(LC_ALL, "");
+    setlocale(LC_ALL, "Russian");
 
     printf("ЗАДАНИЕ 2. Калькулятор\n");
     printf("Введите выражение (например, 5+3 или 2^3): ");
