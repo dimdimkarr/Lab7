@@ -9,7 +9,7 @@ int main(void)
     char c;
     int type;
 
-    setlocale(LC_ALL, "");
+    setlocale(LC_ALL, "Russian");
 
     printf("ЗАДАНИЕ 1. Определение символа\n");
     printf("Введите символ: ");
