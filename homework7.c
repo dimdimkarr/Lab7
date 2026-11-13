@@ -10,7 +10,7 @@ int main(void)
     int n, days;
     int month, year;
 
-    setlocale(LC_ALL, "");
+    setlocale(LC_ALL, "Russian");
 
     printf("ИНДИВИДУАЛЬНОЕ ЗАДАНИЕ. Вариант 7\n");
 
